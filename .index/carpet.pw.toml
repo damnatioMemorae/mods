@@ -1,0 +1,16 @@
+filename = 'fabric-carpet-1.21.7-1.4.177+v250630.jar'
+name = 'Carpet'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8d4fa867040118d599545f340845e2e043a76dd5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6713262
+project-id = 349239

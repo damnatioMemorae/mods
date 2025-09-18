@@ -1,0 +1,16 @@
+filename = 'carpet-org-addition-mc1.21.8-v1.38.0-2507192331.jar'
+name = 'Carpet Org Addition'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b74cd5de2235036638f2ee6dc17f2b36d33d0c22b86e1fd357273581676065160ca6122d36b2c95f04da99a19b17c84f305a6d37d09cafa453fe4825a83ec1f0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/L0bOPIqR/versions/PZHhgswO/carpet-org-addition-mc1.21.8-v1.38.0-2507192331.jar'
+
+[update.modrinth]
+mod-id = 'L0bOPIqR'
+version = 'PZHhgswO'

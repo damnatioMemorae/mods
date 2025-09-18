@@ -1,0 +1,16 @@
+filename = 'Carpet-AMS-Addition-mc1.21.8-fabric-v2.57.6.jar'
+name = 'Carpet AMS Addition'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f37dc2b40cb592ab07ac907a43b3e88658da2307dbf443db2c9ac4431e43a17d5b4886d4da4bf251591c852a1bca1f65ffd3b042ee1cedb1f96d009ed09e461e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/q4fx1eTg/versions/s0BqKqt6/Carpet-AMS-Addition-mc1.21.8-fabric-v2.57.6.jar'
+
+[update.modrinth]
+mod-id = 'q4fx1eTg'
+version = 's0BqKqt6'
